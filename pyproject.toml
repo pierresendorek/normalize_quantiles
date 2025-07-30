@@ -1,0 +1,13 @@
+[project]
+name = "normalize-quantiles"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.4.5",
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.2",
+    "pyqt5==5.15.10",
+    "scipy>=1.16.1",
+]
